@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Budget Tracker</string>
+    <string name="total_balance">Total Balance:</string>
+</resources>
